@@ -1,0 +1,133 @@
+# Copyright (C) 2024 Widgets for Google Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:31
+msgid "Google Reviews Settings"
+msgstr "Paramètres des avis Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:32
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "Avis Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:52
+msgid "Widget Customizer"
+msgstr "Personnalisateur de widgets"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:59
+msgid "Get Reviews"
+msgstr "Obtenir des avis"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:144
+msgid "Nonce verification failed"
+msgstr "Échec de la vérification occasionnelle"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:152
+msgid "Error decoding JSON."
+msgstr "Erreur de décodage de JSON."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:155
+msgid "Error: Place data not received."
+msgstr "Erreur : Données de lieu non reçues."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:158
+msgid "An error occurred: "
+msgstr "Une erreur s'est produite :"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:197
+msgid "Place Image"
+msgstr "Placer l'image"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:202
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "reviews"
+msgstr "Commentaires"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:208
+msgid "Disconnect"
+msgstr "Déconnecter"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:222
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "Placer déconnecté avec succès. Connectez un nouveau lieu."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:257
+msgid "Instructions"
+msgstr "Instructions"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:259
+msgid "Your Shortcode"
+msgstr "Votre code court"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:262
+msgid "Copy to Clipboard"
+msgstr "Copier dans le presse-papier"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263
+msgid "Copied!"
+msgstr "Copié!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:266
+msgid "Paste the copied shortcode into your desired post, page, or widget area to display the Google reviews."
+msgstr "Collez le shortcode copié dans la zone de publication, de page ou de widget souhaitée pour afficher les avis Google."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Un widget pour afficher les avis Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "Titre:"
+
+#. Translators: %s is a human-readable time difference.
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:82
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Google"
+msgstr "Google"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Rating Score:"
+msgstr "Note de notation :"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:129
+msgid "out of 5,"
+msgstr "sur 5,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "based on"
+msgstr "basé sur"
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Reviews and Ratings"
+msgstr "Widgets pour les avis et notes Google"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "Intégrez rapidement et facilement les avis Google dans votre site WordPress. Boostez le référencement, renforcez la confiance et augmentez les ventes grâce aux avis Google."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "repocan"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

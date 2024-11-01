@@ -1,0 +1,133 @@
+# Copyright (C) 2024 Widgets for Google Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:31
+msgid "Google Reviews Settings"
+msgstr "Google ກວດສອບການຕັ້ງຄ່າ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:32
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "ການທົບທວນຄືນຂອງ Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:52
+msgid "Widget Customizer"
+msgstr "Widget Customizer"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:59
+msgid "Get Reviews"
+msgstr "ໄດ້ຮັບການທົບທວນຄືນ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:144
+msgid "Nonce verification failed"
+msgstr "ການຢັ້ງຢືນບໍ່ສຳເລັດ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:152
+msgid "Error decoding JSON."
+msgstr "ການຖອດລະຫັດ JSON ຜິດພາດ."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:155
+msgid "Error: Place data not received."
+msgstr "ຜິດພາດ: ຂໍ້ມູນສະຖານທີ່ບໍ່ໄດ້ຮັບ."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:158
+msgid "An error occurred: "
+msgstr "ເກີດຄວາມຜິດພາດຂຶ້ນ:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:197
+msgid "Place Image"
+msgstr "ຮູບພາບສະຖານທີ່"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:202
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "reviews"
+msgstr "ການທົບທວນຄືນ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:208
+msgid "Disconnect"
+msgstr "ຕັດການເຊື່ອມຕໍ່"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:222
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "ຕັດການເຊື່ອມຕໍ່ສະຖານທີ່ສຳເລັດແລ້ວ. ເຊື່ອມຕໍ່ສະຖານທີ່ໃຫມ່."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:257
+msgid "Instructions"
+msgstr "ຄໍາແນະນໍາ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:259
+msgid "Your Shortcode"
+msgstr "ລະຫັດສັ້ນຂອງເຈົ້າ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:262
+msgid "Copy to Clipboard"
+msgstr "ສຳເນົາໃສ່ຄລິບບອດ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263
+msgid "Copied!"
+msgstr "ສຳເນົາແລ້ວ!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:266
+msgid "Paste the copied shortcode into your desired post, page, or widget area to display the Google reviews."
+msgstr "ວາງ shortcode ຄັດລອກໃສ່ໃນຂໍ້ຄວາມ, ຫນ້າ, ຫຼືພື້ນທີ່ widget ທີ່ທ່ານຕ້ອງການເພື່ອສະແດງການທົບທວນຄືນຂອງ Google."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Widget ເພື່ອສະແດງ Google Reviews"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "ຫົວຂໍ້:"
+
+#. Translators: %s is a human-readable time difference.
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:82
+msgid "%s ago"
+msgstr "%s ກ່ອນໜ້ານີ້"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Google"
+msgstr "Google"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Rating Score:"
+msgstr "ຄະແນນຄະແນນ:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:129
+msgid "out of 5,"
+msgstr "ຈາກ 5,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "based on"
+msgstr "ອີງໃສ່"
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Reviews and Ratings"
+msgstr "Widgets ສໍາລັບການທົບທວນ Google ແລະການຈັດອັນດັບ"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "ຝັງການທົບທວນ Google ເຂົ້າໄປໃນເວັບໄຊທ໌ WordPress ຂອງທ່ານຢ່າງໄວວາແລະງ່າຍດາຍ. ຊຸກຍູ້ SEO, ສ້າງຄວາມໄວ້ວາງໃຈ, ແລະເພີ່ມຍອດຂາຍດ້ວຍການທົບທວນ Google."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "repocean"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

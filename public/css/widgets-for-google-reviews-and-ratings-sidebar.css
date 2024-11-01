@@ -1,0 +1,442 @@
+.repocean-sidebar-main img {
+    height: auto;
+    max-width: 100%;
+}
+.repocean-sidebar-main .content-wrapper {
+    max-width: 1030px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.repocean-sidebar-main h1,
+.repocean-sidebar-main h2,
+.repocean-sidebar-main h3,
+.repocean-sidebar-main h4,
+.repocean-sidebar-main h5,
+.repocean-sidebar-main h6,
+.repocean-sidebar-main p {
+    margin: 0;
+}
+.repocean-sidebar-main strong {
+    font-weight: 700;
+}
+.repocean-sidebar-main .title {
+    padding: 0px 0 30px 0;
+    text-align: center;
+}
+.repocean-sidebar-main .title h4 {
+    font-size: 14px;
+    line-height: 1.45;
+    font-weight: 400;
+    color: #999999;
+}
+.repocean-sidebar-main .slider-box-parent {
+    max-width: 350px;
+    margin: 0 auto;
+}
+.repocean-sidebar-main .slider-box-inner {
+    padding: 25px;
+    background-color: #f4f4f4;
+    border-radius: 4px;
+}
+.repocean-sidebar-main .img-text-content {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 12px;
+}
+.repocean-sidebar-main strong.gi-rating {
+    display: block;
+}
+.repocean-sidebar-main .top-text-content {
+    font-size:15px;
+    color:#000000
+}
+.repocean-sidebar-main .top-text-content strong.gi-rating {
+    font-size:15px;
+    color:#000000
+}
+.repocean-sidebar-main .top-text-content span.nowrap {
+    display: block;
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 400;
+}
+.repocean-sidebar-main span.nowrap a {
+    color: #000;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 400;
+}
+.repocean-sidebar-main .top-part {
+    position: relative;
+}
+.repocean-sidebar-main a.top-part-link {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.repocean-sidebar-main .top-part .img-content {
+    margin-top: 6px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e7e7e7;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.repocean-sidebar-main .top-part .google-logo {
+    width: 120px;
+    height: 50px;
+}
+.repocean-sidebar-main .top-part .google-logo img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.repocean-sidebar-main .img-text-content .right-img {
+    width: 20px;
+    height: 20px;
+}
+.repocean-sidebar-main .img-text-content .right-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.repocean-sidebar-main .profile-img-info {
+    display: flex;
+    gap: 15px;
+}
+.repocean-sidebar-main .profile-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.repocean-sidebar-main .profile-img {
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 100%;
+}
+.repocean-sidebar-main .profile-img img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.repocean-sidebar-main .profile-info .profile-title h6 {
+    font-size: 14px;
+    margin-bottom: 2px;
+    color: #444444;
+    font-weight: bold;
+    text-transform: none;
+    padding-bottom: 0px;
+}
+.repocean-sidebar-main .description p {
+    font-size: 14px;
+    line-height: 23px;
+}
+.repocean-sidebar-main .description .more-content {
+    font-size: 14px;
+    line-height: 1.45;
+}
+.repocean-sidebar-main .description {
+    overflow: hidden;
+    max-height: 116px;
+    margin-top: 12px;
+    transition: max-height 0.5s ease;
+}
+.repocean-sidebar-main .description .more-content {
+    display: inline;
+}
+.repocean-sidebar-main .description.max87 {
+    overflow: visible;
+    max-height: 87px;
+    min-height: 87px;
+    transition: max-height 0.5s ease;
+}
+.repocean-sidebar-main .description.max63 {
+    overflow: hidden;
+    max-height: 63px;
+    min-height: 63px;
+    transition: max-height 0.5s ease;
+}
+.repocean-sidebar-main .button-content.hide {
+    display: none;
+}
+.repocean-sidebar-main .description .more-content {
+    display: inline;
+}
+.repocean-sidebar-main .button-content .readmore-button a {
+    font-size: 13px;
+    text-decoration: none;
+    color: #474747;
+    font-weight: 400;
+    line-height: 1.45;
+    transition: 400ms all;
+    display: block;
+    padding-top: 5px;
+    width: fit-content;
+    opacity: 0.5;
+}
+.repocean-sidebar-main .button-content .readmore-button a:hover {
+    opacity: 1;
+    text-decoration: underline !important;
+}
+.repocean-sidebar-main .review-box-parent {
+    align-items: center;
+    margin-bottom: 8px;
+    margin-top: 15px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+.repocean-sidebar-main .review-box {
+    width: 22px;
+    padding-right: 2px;
+}
+.repocean-sidebar-main .review-box.verified-icon-box {
+    margin-left: 7px;
+    height: 15px;
+    width: 15px;
+}
+.repocean-sidebar-main .review-box img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.repocean-sidebar-main .button a {
+    line-height: 1.45;
+    transition: 400ms all;
+    display: block;
+    padding-top: 5px;
+    width: fit-content;
+    display: inline-block;
+    font-weight: 400;
+    white-space: nowrap;
+    font-size: 14px;
+    color: #000000;
+    opacity: 0.5;
+    text-decoration: none !important;
+    transition: color 300ms ease-out;
+    cursor: pointer;
+}
+.repocean-sidebar-main .button a:hover {
+    text-decoration: underline;
+}
+.repocean-sidebar-main .profile-date p {
+    font-size: 12px;
+    color: #444444;
+    opacity: 0.5;
+}
+.repocean-sidebar-main .prev-arrow {
+    position: absolute;
+    z-index: 5;
+    display: inline-block;
+    display: block;
+    opacity: 1;
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+}
+.repocean-sidebar-main .slick-arrow {
+    bottom: 0px;
+    border: none;
+    padding: 14px 10px;
+    z-index: 5;
+    background-color: transparent;
+    cursor: pointer;
+}
+.repocean-sidebar-main .prev-arrow {
+    background-color: transparent;
+    right: 35px;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    border: solid 1px #e6e6e6;
+    line-height: 30px;
+    background-color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}
+.repocean-sidebar-main .slick-arrow:hover {
+    background-color: #fafafa;
+}
+.repocean-sidebar-main .slick-arrow.next-arrow:hover {
+    background-color: #fafafa;
+}
+.repocean-sidebar-main .prev-arrow::before {
+    -ms-transform: rotate(45deg);
+    position: absolute;
+    top: 9px;
+    left: 11px;
+    content: "";
+    border-left: 2px solid #cccccc;
+    border-bottom: 2px solid #cccccc;
+    width: 8px;
+    height: 8px;
+    cursor: pointer;
+    transform: rotate(45deg);
+    display: block;
+}
+.repocean-sidebar-main .next-arrow::before {
+    -ms-transform: rotate(45deg);
+    position: absolute;
+    top: 9px;
+    left: 8px;
+    content: "";
+    border-top: 2px solid #cccccc;
+    border-right: 2px solid #cccccc;
+    width: 8px;
+    height: 8px;
+    cursor: pointer;
+    transform: rotate(45deg);
+    display: block;
+}
+.repocean-sidebar-main .slick-arrow.next-arrow {
+    right: 0px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    border: solid 1px #e6e6e6;
+    line-height: 30px;
+    background-color: #ffffff;
+    transition: all 0.3s ease-in-out;
+}
+.repocean-sidebar-main .slide-arrow.slick-disabled {
+    pointer-events: none;
+    opacity: 0.6;
+}
+.repocean-sidebar-main ul.slick-dots {
+    margin: 5px auto 0;
+    max-width: 150px;
+    height: 3px;
+    border-radius: 3px;
+    background: rgba(204, 204, 204, 0.35);
+    position: relative;
+    overflow: hidden;
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+.repocean-sidebar-main ul.slick-dots li.slick-active {
+    background-color: #cccccc;
+    height: 100%;
+    border-radius: 3px;
+}
+.repocean-sidebar-main ul.slick-dots li {
+    width: 7px;
+}
+.repocean-sidebar-main ul.slick-dots li * {
+    display: none;
+}
+.repocean-sidebar-main .slick-slider {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+.repocean-sidebar-main .slick-list {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+.repocean-sidebar-main .slick-list:focus {
+    outline: none;
+}
+.repocean-sidebar-main .slick-list.dragging {
+    cursor: pointer;
+    cursor: hand;
+}
+.repocean-sidebar-main .slick-slider .slick-track,
+.repocean-sidebar-main .slick-slider .slick-list {
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+.repocean-sidebar-main .slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.repocean-sidebar-main .slick-track:before,
+.repocean-sidebar-main .slick-track:after {
+    display: table;
+    content: '';
+}
+.repocean-sidebar-main .slick-track:after {
+    clear: both;
+}
+.repocean-sidebar-main .slick-loading .slick-track {
+    visibility: hidden;
+}
+.repocean-sidebar-main .slick-slide {
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+.repocean-sidebar-main [dir='rtl'] .slick-slide {
+    float: right;
+}
+.repocean-sidebar-main .slick-slide img {
+    display: block;
+}
+.repocean-sidebar-main .slick-slide.slick-loading img {
+    display: none;
+}
+.repocean-sidebar-main .slick-slide.dragging img {
+    pointer-events: none;
+}
+.repocean-sidebar-main .slick-initialized .slick-slide {
+    display: block;
+}
+.repocean-sidebar-main .slick-loading .slick-slide {
+    visibility: hidden;
+}
+.repocean-sidebar-main .slick-vertical .slick-slide {
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+.repocean-sidebar-main .slick-arrow.slick-hidden {
+    display: none;
+}
+@media(max-width: 1199px) {
+    .repocean-sidebar-main .slider-outer {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+}
+@media(max-width: 767px) {
+    .repocean-sidebar-main .title {
+        padding: 30px 0 10px 0;
+    }
+    .repocean-sidebar-main .slick-list.draggable {
+        margin: 0 4px;
+    }
+    .repocean-sidebar-main .review-box {
+        width: 17px;
+    }
+}

@@ -1,0 +1,133 @@
+# Copyright (C) 2024 Widgets for Google Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:31
+msgid "Google Reviews Settings"
+msgstr "Google Vélemények beállításai"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:32
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "Google Vélemények"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:52
+msgid "Widget Customizer"
+msgstr "Widget testreszabó"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:59
+msgid "Get Reviews"
+msgstr "Kérjen véleményeket"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:144
+msgid "Nonce verification failed"
+msgstr "A nem-ellenőrzés sikertelen"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:152
+msgid "Error decoding JSON."
+msgstr "Hiba a JSON dekódolása közben."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:155
+msgid "Error: Place data not received."
+msgstr "Hiba: A helyadatok nem érkeztek meg."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:158
+msgid "An error occurred: "
+msgstr "Hiba lépett fel:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:197
+msgid "Place Image"
+msgstr "Kép elhelyezése"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:202
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "reviews"
+msgstr "vélemények"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:208
+msgid "Disconnect"
+msgstr "Leválasztás"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:222
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "A hely sikeresen leválasztva. Csatlakoztasson egy új helyet."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:257
+msgid "Instructions"
+msgstr "Utasítás"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:259
+msgid "Your Shortcode"
+msgstr "Az Ön rövid kódja"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:262
+msgid "Copy to Clipboard"
+msgstr "Másolja a vágólapra"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263
+msgid "Copied!"
+msgstr "Másolva!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:266
+msgid "Paste the copied shortcode into your desired post, page, or widget area to display the Google reviews."
+msgstr "Illessze be a másolt rövid kódot a kívánt bejegyzés, oldal vagy modul területére a Google-vélemények megjelenítéséhez."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Widget a Google Vélemények megjelenítéséhez"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "Cím:"
+
+#. Translators: %s is a human-readable time difference.
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:82
+msgid "%s ago"
+msgstr "%s ezelőtt"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Google"
+msgstr "Google"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Rating Score:"
+msgstr "Értékelési pontszám:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:129
+msgid "out of 5,"
+msgstr "5-ből,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "based on"
+msgstr "alapján"
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Reviews and Ratings"
+msgstr "Widgetek a Google-véleményekhez és -értékelésekhez"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "Gyorsan és egyszerűen ágyazhat be Google-véleményeket a WordPress webhelyébe. Növelje a SEO-t, építsen bizalmat, és növelje eladásait a Google-vélemények segítségével."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "visszatelepedni"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

@@ -1,0 +1,133 @@
+# Copyright (C) 2024 Widgets for Google Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:31
+msgid "Google Reviews Settings"
+msgstr "Танзимоти баррасии Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:32
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "Баррасиҳои Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:52
+msgid "Widget Customizer"
+msgstr "Фармоишгари виджет"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:59
+msgid "Get Reviews"
+msgstr "Баррасиҳо гиред"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:144
+msgid "Nonce verification failed"
+msgstr "Тафтиш ноком шуд"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:152
+msgid "Error decoding JSON."
+msgstr "Хатогии рамзкушоии JSON."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:155
+msgid "Error: Place data not received."
+msgstr "Хатогӣ: Маълумот дар ҷой қабул карда нашудааст."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:158
+msgid "An error occurred: "
+msgstr "Хатогӣ рӯй дод:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:197
+msgid "Place Image"
+msgstr "Ҷойгир кардани тасвир"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:202
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "reviews"
+msgstr "баррасихо"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:208
+msgid "Disconnect"
+msgstr "Қатъ кунед"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:222
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "Ҷой бомуваффақият ҷудо карда шуд. Ҷои навро пайваст кунед."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:257
+msgid "Instructions"
+msgstr "Дастурҳо"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:259
+msgid "Your Shortcode"
+msgstr "Рамзи кӯтоҳи шумо"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:262
+msgid "Copy to Clipboard"
+msgstr "Ба буфер нусхабардорӣ кунед"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263
+msgid "Copied!"
+msgstr "Нусхабардорӣ!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:266
+msgid "Paste the copied shortcode into your desired post, page, or widget area to display the Google reviews."
+msgstr "Барои намоиш додани баррасиҳои Google, рамзи кӯтоҳи нусхабардориро ба пост, саҳифа ё виджети дилхоҳатон гузоред."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Виҷет барои намоиши баррасии Google"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "Сарлавҳа:"
+
+#. Translators: %s is a human-readable time difference.
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:82
+msgid "%s ago"
+msgstr "%s пеш"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Google"
+msgstr "Google"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Rating Score:"
+msgstr "Баҳои рейтинг:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:129
+msgid "out of 5,"
+msgstr "аз 5,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "based on"
+msgstr "бар асоси"
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Reviews and Ratings"
+msgstr "Виҷетҳо барои баррасиҳо ва рейтингҳои Google"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "Баррасиҳои Google-ро зуд ва ба осонӣ дар сайти WordPress ҷойгир кунед. Бо баррасиҳои Google SEO-ро афзоиш диҳед, эътимод эҷод кунед ва фурӯшро зиёд кунед."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "бозгашт"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"

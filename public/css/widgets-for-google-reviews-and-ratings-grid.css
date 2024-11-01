@@ -1,0 +1,303 @@
+.repocean-grid-main .content-wrapper {
+    max-width: 1030px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.repocean-grid-main h1,
+.repocean-grid-main h2,
+.repocean-grid-main h3,
+.repocean-grid-main h4,
+.repocean-grid-main h5,
+.repocean-grid-main h6,
+.repocean-grid-main p {
+    margin: 0;
+}
+.repocean-grid-main strong {
+    font-weight: 700;
+}
+.repocean-grid-main .grid-outer {
+    padding: 5px 0;
+}
+.repocean-grid-main .title {
+    padding: 0px 0 20px 0;
+    text-align: center;
+}
+.repocean-grid-main .title h4 {
+    font-size: 14px;
+    line-height: 1.45;
+    font-weight: 400;
+    color: #999999;
+}
+.repocean-grid-main .grid-box-parent {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -8px;
+}
+.repocean-grid-main .grid-box-parent .grid-box {
+    width: calc(33.33% - 16px);
+    margin: 8px;
+    display: flex;
+    min-width: 315px;
+    display:none;
+    opacity: 0;
+}
+.repocean-grid-main .grid-box-inner {
+    padding: 20px;
+    background-color: #f6f6f6;
+    border-radius: 4px;
+    transition: 400ms all;
+    transform: translate(0);
+    display: block;
+    width: 100%;
+}
+.repocean-grid-main .grid-box-inner:hover {
+    transform: translate(0, -5px);
+}
+.repocean-grid-main .img-text-content {
+    display: flex;
+    justify-content: space-between;
+}
+.repocean-grid-main .img-text-content .right-img {
+    width: 20px;
+    height: 20px;
+}
+.repocean-grid-main .img-text-content .right-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.repocean-grid-main .profile-img-info {
+    display: flex;
+    gap: 15px;
+}
+.repocean-grid-main .profile-info {
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+}
+.repocean-grid-main .profile-img {
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 100%;
+}
+.repocean-grid-main .profile-img img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.repocean-grid-main .profile-info .profile-title h6 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 2px;
+    text-transform: none;
+    padding-bottom: 0px;
+}
+.repocean-grid-main .description p {
+    font-size: 14px;
+    line-height: 1.45;
+}
+.repocean-grid-main .description .more-content {
+    font-size: 14px;
+    line-height: 1.45;
+}
+.repocean-grid-main .description {
+    overflow: hidden;
+    max-height: 116px;
+    transition: max-height 0.5s ease;
+}
+.repocean-grid-main .description .more-content {
+    display: inline;
+}
+.repocean-grid-main .description.max87 {
+    overflow: visible;
+    max-height: 87px;
+    min-height: 87px;
+    transition: max-height 0.5s ease;
+}
+.repocean-grid-main .description.max63 {
+    overflow: hidden;
+    max-height: 63px;
+    min-height: 63px;
+    transition: max-height 0.5s ease;
+}
+.repocean-grid-main .button-content.hide {
+    display: none;
+}
+.repocean-grid-main .description .more-content {
+    display: inline;
+}
+.repocean-grid-main .button-content .readmore-button a {
+    font-size: 13px;
+    text-decoration: none;
+    color: #474747;
+    font-weight: 400;
+    line-height: 1.45;
+    transition: 400ms all;
+    display: block;
+    padding-top: 5px;
+    width: fit-content;
+    opacity: 0.5;
+}
+
+.repocean-grid-main .button-content .readmore-button a:hover {
+    opacity: 1;
+    text-decoration: underline !important;
+}
+.repocean-grid-main .review-box-parent {
+    margin-bottom: 8px;
+    margin-top: 15px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+.repocean-grid-main .review-box {
+    width: 17px;
+    padding-right: 2px;
+}
+.repocean-grid-main .review-box.verified-icon-box {
+    margin-left: 7px;
+    height: 15px;
+    width: 15px;
+}
+.review-box img {
+    display: block;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.repocean-grid-main .button a {
+    font-size: 13px;
+    text-decoration: none;
+    color: #474747;
+    font-weight: 400;
+    line-height: 1.45;
+    transition: 400ms all;
+    display: block;
+    padding-top: 5px;
+    width: fit-content;
+}
+.repocean-grid-main .button a:hover {
+    text-decoration: underline;
+}
+.repocean-grid-main .profile-date p {
+    font-size: 12px;
+    color: #474747;
+}
+.repocean-grid-main div.review-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    justify-content: center;
+    padding: 20px 0;
+}
+.repocean-grid-main  div.review-link .review-box-parent {
+    margin: 0;
+    padding: 0 4px;
+}
+.repocean-grid-main span.nowrap {
+    display: block;
+}
+.repocean-grid-main .review-link .gi-small-logo {
+    width: 80px;
+    padding-left: 4px;
+}
+.repocean-grid-main div.review-link .gi-small-logo img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+}
+.repocean-grid-main .load-more-btn {
+    border-style: solid;
+    border-color: #f4f4f4;
+    color: #000000;
+    background: #f4f4f4;
+    background-color: rgb(244, 244, 244);
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    margin: 16px auto;
+    display: flex;
+}
+.repocean-grid-main .load-more-btn:hover {
+    background-color: #dbdbdb !important;
+    border-color: #dbdbdb !important;
+}
+
+.repocean-grid-main .load-more-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+.repocean-grid-main .grid-box.show {
+    display: flex;
+    opacity: 1;
+}
+
+@media(max-width:1199px) {
+    .repocean-grid-main .grid-outer {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+}
+@media(max-width:991px) {
+    .repocean-grid-main .grid-box-parent .grid-box {
+        width: calc(50% - 16px);
+    }
+}
+@media(max-width:767px) {
+    .repocean-grid-main .title {
+        padding: 30px 0 10px 0;
+    }
+    .repocean-grid-main .slick-list.draggable {
+        margin: 0 4px;
+    }
+    .repocean-grid-main .grid-box-parent .grid-box {
+        width: calc(100% - 16px);
+    }
+    .excellent-text,
+    .review-box-parent {
+        display: block;
+        text-align: center;
+    }
+    .review-text {
+        margin-top: 5px;
+    }
+    .gi-small-logo {
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 400px) {
+    .repocean-grid-main .review-link {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .repocean-grid-main .review-box-parent {
+        display: inline-flex;
+        justify-content: center;
+        margin-bottom: 5px;
+    }
+    .repocean-grid-main .excellent-text {
+        margin-bottom: 5px;
+        display: inline-block;
+    }
+    .repocean-grid-main .review-text {
+        margin-top: 5px;
+        display: block;
+        text-align: center;
+    }
+    .repocean-grid-main .gi-small-logo {
+        display: block;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .repocean-grid-main .grid-box-parent .grid-box {
+        min-width: auto;
+    }
+}

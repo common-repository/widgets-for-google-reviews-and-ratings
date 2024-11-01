@@ -1,0 +1,133 @@
+# Copyright (C) 2024 Widgets for Google Reviews and Ratings
+# This file is distributed under the same license as the Widgets for Google Reviews and Ratings package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:31
+msgid "Google Reviews Settings"
+msgstr "Google ವಿಮರ್ಶೆಗಳ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:32
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:23
+msgid "Google Reviews"
+msgstr "Google ವಿಮರ್ಶೆಗಳು"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:52
+msgid "Widget Customizer"
+msgstr "ವಿಜೆಟ್ ಕಸ್ಟೊಮೈಜರ್"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:59
+msgid "Get Reviews"
+msgstr "ವಿಮರ್ಶೆಗಳನ್ನು ಪಡೆಯಿರಿ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:144
+msgid "Nonce verification failed"
+msgstr "ಒಮ್ಮೆ ಪರಿಶೀಲನೆ ವಿಫಲವಾಗಿದೆ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:152
+msgid "Error decoding JSON."
+msgstr "JSON ಡೀಕೋಡಿಂಗ್ ದೋಷ."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:155
+msgid "Error: Place data not received."
+msgstr "ದೋಷ: ಸ್ಥಳದ ಡೇಟಾವನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿಲ್ಲ."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:158
+msgid "An error occurred: "
+msgstr "ಒಂದು ತಪ್ಪು ನಡೆದಿದೆ:"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:197
+msgid "Place Image"
+msgstr "ಸ್ಥಳ ಚಿತ್ರ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:202
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "reviews"
+msgstr "ವಿಮರ್ಶೆಗಳು"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:208
+msgid "Disconnect"
+msgstr "ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಿ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:222
+msgid "Place disconnected successfully. Connect a new place."
+msgstr "ಸ್ಥಳವು ಯಶಸ್ವಿಯಾಗಿ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ. ಹೊಸ ಸ್ಥಳವನ್ನು ಸಂಪರ್ಕಿಸಿ."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:257
+msgid "Instructions"
+msgstr "ಸೂಚನೆಗಳು"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:259
+msgid "Your Shortcode"
+msgstr "ನಿಮ್ಮ SHORTCODE"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:262
+msgid "Copy to Clipboard"
+msgstr "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿ"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:263
+msgid "Copied!"
+msgstr "ನಕಲು ಮಾಡಲಾಗಿದೆ!"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-admin.php:266
+msgid "Paste the copied shortcode into your desired post, page, or widget area to display the Google reviews."
+msgstr "Google ವಿಮರ್ಶೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು ನೀವು ಬಯಸಿದ ಪೋಸ್ಟ್, ಪುಟ ಅಥವಾ ವಿಜೆಟ್ ಪ್ರದೇಶದಲ್ಲಿ ನಕಲಿಸಿದ SHORTCODE ಅನ್ನು ಅಂಟಿಸಿ."
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:9
+msgid "A Widget to display Google Reviews"
+msgstr "Google ವಿಮರ್ಶೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸಲು ಒಂದು ವಿಜೆಟ್"
+
+#: admin/class-widgets-for-google-reviews-and-ratings-widget.php:26
+msgid "Title:"
+msgstr "ಶೀರ್ಷಿಕೆ:"
+
+#. Translators: %s is a human-readable time difference.
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:82
+msgid "%s ago"
+msgstr "%s ಹಿಂದೆ"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Google"
+msgstr "ಗೂಗಲ್"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:128
+msgid "Rating Score:"
+msgstr "ರೇಟಿಂಗ್ ಸ್ಕೋರ್:"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:129
+msgid "out of 5,"
+msgstr "5 ರಲ್ಲಿ,"
+
+#: public/class-widgets-for-google-reviews-and-ratings-public.php:130
+msgid "based on"
+msgstr "ಆಧಾರಿತ"
+
+#. Plugin Name of the plugin/theme
+msgid "Widgets for Google Reviews and Ratings"
+msgstr "Google ವಿಮರ್ಶೆಗಳು ಮತ್ತು ರೇಟಿಂಗ್‌ಗಳಿಗಾಗಿ ವಿಜೆಟ್‌ಗಳು"
+
+#. Plugin URI of the plugin/theme
+msgid "https://repocean.com/"
+msgstr "https://repocean.com/"
+
+#. Description of the plugin/theme
+msgid "Quickly and easily embed Google reviews into your WordPress site. Boost SEO, build trust, and increase sales with Google reviews."
+msgstr "ನಿಮ್ಮ WordPress ಸೈಟ್‌ಗೆ Google ವಿಮರ್ಶೆಗಳನ್ನು ತ್ವರಿತವಾಗಿ ಮತ್ತು ಸುಲಭವಾಗಿ ಎಂಬೆಡ್ ಮಾಡಿ. Google ವಿಮರ್ಶೆಗಳೊಂದಿಗೆ SEO ಅನ್ನು ಹೆಚ್ಚಿಸಿ, ನಂಬಿಕೆಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಿ ಮತ್ತು ಮಾರಾಟವನ್ನು ಹೆಚ್ಚಿಸಿ."
+
+#. Author of the plugin/theme
+msgid "repocean"
+msgstr "repocean"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/repocean/"
+msgstr "https://profiles.wordpress.org/repocean/"
